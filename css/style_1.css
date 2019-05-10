@@ -3,3 +3,9 @@ h1 {
   size: 20px;
   color: darkblue;
 }
+
+p {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  size: 20px;
+  color: darkred;
+}
